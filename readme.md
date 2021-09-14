@@ -1,4 +1,4 @@
-# Vanilla JavaScript App
+# Demo JavaScript App(Azure)
 
 
 Azure Static Web App allows you to easily build JavaScript apps in minutes.
